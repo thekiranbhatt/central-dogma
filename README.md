@@ -61,7 +61,7 @@ Open `central_dogma.ipynb` and run the cells from top to bottom.
 
 ## Before running
 
-In the setup cell, replace `your.email@example.com` with your valid email address. NCBI requests a contact email for Entrez use.
+In the setup cell, replace `your.email@example.com` with your valid email address. NCBI will requests a contact email for Entrez use.
 
 ## Biology notes
 
@@ -71,4 +71,4 @@ In the setup cell, replace `your.email@example.com` with your valid email addres
 - Padding the sequence with `N` bases is unnecessary for an annotated CDS and can affect translation.
 - A terminal `*` in the translated output represents a stop codon.
 
-NCBI records and search results may change over time. Internet access is required.
+The NCBI records and search results may change over time. So validating with present records is advised. 
